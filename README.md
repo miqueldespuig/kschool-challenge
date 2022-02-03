@@ -9,3 +9,7 @@ This repo has my solutions to various exercices.
 # Exercise 2
 
 > Top 10 arrival airports in the worl in 2013 ( using the bookings file )
+
+# Exercice 3
+
+> Plotting monthly number of searches for flights
